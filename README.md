@@ -6,6 +6,7 @@ Crea un frame externo donde tiene:
   3. Boton de conectar.
   4. Boton de desconectar.
   5. Consola de salida debug para un poco de informacion util.
+  6. Mismas funciones que el objeto Serial(available,write,read,etc...)
   
 Utiliza la libreria controlP5 (http://www.sojamo.de/libraries/controlP5/), para crear el GUI en el frame externo.
 <p>
