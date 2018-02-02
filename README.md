@@ -26,7 +26,7 @@ Dispone de las funciones:
 + EasySerial(PApplet)
 
    El Constructor recibe por parametro el PApplet creado por defecto.
-   ```java
+```java
    EasySerial es;
    void settings(){
      size(700, 400 );
@@ -38,7 +38,7 @@ Dispone de las funciones:
 + connected(): boolean
    
    Reviza si se a conectado a algun dispositivo y no han avido erroes de comunicacion.
-   ```java
+```java
    EasySerial es;
    void settings(){
      size(700, 400 );
